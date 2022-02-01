@@ -23,7 +23,7 @@ O software de gestão empresarial ocupa uma posição central nas organizações
 - Framework scriptcase
 - Versão PHP 7
 - Mysql 8
-- Framework Boostrap
+- Framework Bootstrap
 - Template Sbadmin 2
 - Template Adminlte 3
 
