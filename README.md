@@ -16,6 +16,14 @@ O software de gestão empresarial ocupa uma posição central nas organizações
 - Gestão de Plano de Conta.
 - Gestão de Saldos Bancários.
 
+# Configurações do sistema:
+- Framework scriptcase
+- Versão PHP 7
+- Mysql 8
+- Framework Boostrap
+- Template Sbadmin
+- Template Adminlte
+
 # Desenvolvido por:
 - VANCOUVERTEC SOLUÇÕES EM TECNOLOGIA
 - CNPJ: 30.076.559/0001-66
