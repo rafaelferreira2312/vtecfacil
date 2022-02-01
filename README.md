@@ -20,7 +20,7 @@ O software de gestão empresarial ocupa uma posição central nas organizações
 - VANCOUVERTEC SOLUÇÕES EM TECNOLOGIA
 - CNPJ: 30.076.559/0001-66
 
-# Canal de midias sociais:
+# Canais de midias sociais:
 - Whatsapp: https://api.whatsapp.com/send?phone=5521971604248&text=Vancouvertec%20Solu%C3%A7%C3%B5es%20em%20Tecnologia!
 - E-mail: vancouvertec@gmail.com
 - Facebook: https://facebook.com/vancouvertec
