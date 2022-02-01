@@ -1,4 +1,6 @@
-![logo_vtecfacil fw](https://user-images.githubusercontent.com/98604277/151984982-ec74249e-10f2-42e8-8d0b-7f0a3cca0a3b.png) <h1> DEUS É FIÉL!</H1>
+<h1>Agradeço a DEUS pela sabedoria que ele me deu, pois ele é fiél!</H1>
+
+![logo_vtecfacil fw](https://user-images.githubusercontent.com/98604277/151984982-ec74249e-10f2-42e8-8d0b-7f0a3cca0a3b.png) 
 
 O software de gestão empresarial ocupa uma posição central nas organizações modernas: o painel de controle que concentra todos os dados, documentos e processos do negócio. Com ele, é possível integrar todas as áreas da empresa, automatizar tarefas e acelerar as rotinas diárias, conquistando muito mais eficiência. Veja abaixo que o vtecfácil oferece tudo isso a você:
 
