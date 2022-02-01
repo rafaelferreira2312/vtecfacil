@@ -22,8 +22,8 @@ O software de gestão empresarial ocupa uma posição central nas organizações
 - Versão PHP 7
 - Mysql 8
 - Framework Boostrap
-- Template Sbadmin
-- Template Adminlte
+- Template Sbadmin 2
+- Template Adminlte 3
 
 # Desenvolvido por:
 - VANCOUVERTEC SOLUÇÕES EM TECNOLOGIA
